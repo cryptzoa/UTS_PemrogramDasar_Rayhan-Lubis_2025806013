@@ -1,0 +1,12 @@
+=== LAPORAN ANALISIS TEKS ===
+Jumlah baris: 3
+Jumlah kata: 19
+Jumlah huruf vokal: 47
+Jumlah huruf konsonan: 81
+
+5 Kata Paling Sering Muncul:
+python: 3
+adalah: 1
+bahasa: 1
+pemrograman: 1
+yang: 1
