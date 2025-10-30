@@ -1,0 +1,3 @@
+Python adalah bahasa pemrograman yang populer.
+Python sering digunakan untuk data science dan pembelajaran mesin.
+Belajar Python sangat menyenangkan.
